@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\resources\.DS_Store" />
+    <None Include="wwwroot\resources\css\.DS_Store" />
+    <None Include="wwwroot\resources\css\img\back-customers.jpg" />
+    <None Include="wwwroot\resources\css\img\hero.jpg" />
+    <None Include="wwwroot\resources\css\queries.css" />
+    <None Include="wwwroot\resources\css\style.css" />
+    <None Include="wwwroot\resources\img\.DS_Store" />
+    <None Include="wwwroot\resources\img\1.jpg" />
+    <None Include="wwwroot\resources\img\2.jpg" />
+    <None Include="wwwroot\resources\img\3.jpg" />
+    <None Include="wwwroot\resources\img\4.jpg" />
+    <None Include="wwwroot\resources\img\5.jpg" />
+    <None Include="wwwroot\resources\img\6.jpg" />
+    <None Include="wwwroot\resources\img\7.jpg" />
+    <None Include="wwwroot\resources\img\8.jpg" />
+    <None Include="wwwroot\resources\img\app-iPhone.png" />
+    <None Include="wwwroot\resources\img\back-customers.jpg" />
+    <None Include="wwwroot\resources\img\berlin.jpg" />
+    <None Include="wwwroot\resources\img\customer-1.jpg" />
+    <None Include="wwwroot\resources\img\customer-2.jpg" />
+    <None Include="wwwroot\resources\img\customer-3.jpg" />
+    <None Include="wwwroot\resources\img\download-app-android.png" />
+    <None Include="wwwroot\resources\img\download-app.svg" />
+    <None Include="wwwroot\resources\img\hero.jpg" />
+    <None Include="wwwroot\resources\img\lisbon-3.jpg" />
+    <None Include="wwwroot\resources\img\logo-white.png" />
+    <None Include="wwwroot\resources\img\logo.png" />
+    <None Include="wwwroot\resources\img\london.jpg" />
+    <None Include="wwwroot\resources\img\san-francisco.jpg" />
+    <None Include="wwwroot\resources\js\script.js" />
+    <None Include="wwwroot\vendors\css\animate.css" />
+    <None Include="wwwroot\vendors\css\grid.css" />
+    <None Include="wwwroot\vendors\css\ionicons.min.css" />
+    <None Include="wwwroot\vendors\css\normalize.css" />
+    <None Include="wwwroot\vendors\fonts\ionicons.eot" />
+    <None Include="wwwroot\vendors\fonts\ionicons.svg" />
+    <None Include="wwwroot\vendors\fonts\ionicons.ttf" />
+    <None Include="wwwroot\vendors\fonts\ionicons.woff" />
+    <None Include="wwwroot\vendors\js\.DS_Store" />
+    <None Include="wwwroot\vendors\js\jquery.waypoints.min.js" />
+  </ItemGroup>
+
+</Project>
